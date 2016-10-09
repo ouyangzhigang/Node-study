@@ -30,6 +30,5 @@
 
 
 ##result
-```
+
 	![Image of result](https://github.com/ouyangzhigang/Node-study/blob/master/module-process/QQ20161009-0%402x.png)
-```
