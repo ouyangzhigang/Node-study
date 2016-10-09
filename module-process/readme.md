@@ -31,5 +31,5 @@
 
 ##result
 ```
-	![Image of result](QQ20161009-0@2x.png)
+	![Image of result](https://github.com/ouyangzhigang/Node-study/blob/master/module-process/QQ20161009-0%402x.png)
 ```
