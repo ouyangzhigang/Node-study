@@ -1,6 +1,16 @@
 # Node-study
 that about study nodeJs project test demo
 
+##konwledge
+
+- 靠的是chrome v8引擎来解析js的运行环境
+
+- 由c++   js组件  v8引擎组成的后端服务器
+
+- 没有客户端安全设置，可直接解析js通信
+
+- https://github.com/ouyangzhigang/Node-study
+
 ##process
 
 ```
