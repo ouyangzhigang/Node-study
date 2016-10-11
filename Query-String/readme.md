@@ -7,7 +7,7 @@ __ readme.md __
 - querystring.unescape
 
 
-
+｀｀｀
 	const querystring = require('querystring');
 
 	let stringify = querystring.stringify({ foo: 'bar', baz: ['qux', 'quux'], corge: '', banana: null, json: {a: 'a'}});
@@ -16,7 +16,7 @@ __ readme.md __
 
 	// foo=bar&baz=qux&baz=quux&corge=&banana=&json=
 
-	＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+	＊＊＊
 
 	let parse = querystring.parse('?foo=bar&baz=qux&baz=quux&corge=&banana=&json=31212#hash');
 
@@ -55,3 +55,4 @@ __ readme.md __
 	console.log(unescape);
 
 	// w=中文&foo=bar
+｀｀｀	
