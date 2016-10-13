@@ -1,0 +1,30 @@
+{
+  "name": "ouyangzhigang",
+  "version": "1.0.0",
+  "description": "node express study",
+  "main": "express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ouyangzhigang/Node-study.git"
+  },
+  "keywords": [
+    "express",
+    "node"
+  ],
+  "author": "ouyangzhigang@live.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ouyangzhigang/Node-study/issues"
+  },
+  "homepage": "https://github.com/ouyangzhigang/Node-study#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "multer": "^1.2.0"
+  }
+}
