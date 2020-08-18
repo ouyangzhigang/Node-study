@@ -1,7 +1,7 @@
 # Node-study
 that about study nodeJs project test demo
 
-##konwledge
+## konwledge
 
 - 靠的是chrome v8引擎来解析js的运行环境
 
@@ -11,9 +11,9 @@ that about study nodeJs project test demo
 
 - https://github.com/ouyangzhigang/Node-study
 
-##process
+## process
 
-```
+```json
 process {
   title: 'node',
   version: 'v6.3.1',
