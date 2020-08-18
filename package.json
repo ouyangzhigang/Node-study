@@ -1,0 +1,25 @@
+{
+  "name": "Node-study",
+  "version": "1.0.0",
+  "description": "that about study nodeJs project test demo",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "memeye": "^1.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node ./readline/stream_readline.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ouyangzhigang/Node-study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ouyangzhigang/Node-study/issues"
+  },
+  "homepage": "https://github.com/ouyangzhigang/Node-study#readme"
+}

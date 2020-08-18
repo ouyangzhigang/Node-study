@@ -1,6 +1,11 @@
 # Node-study
 that about study nodeJs project test demo
 
+```
+人要有毅力， 否则将一事无成。
+                          ————居里夫人
+```
+
 ## konwledge
 
 - 靠的是chrome v8引擎来解析js的运行环境

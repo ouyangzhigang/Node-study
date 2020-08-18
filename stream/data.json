@@ -1,0 +1,42 @@
+{
+  "flag": "S",
+  "msg": "",
+  "code": "BCIS1010",
+  "data": {
+    "firstProductCode": "360JIETIAO",
+    "loanInfo": {
+      "dateDue": "2019-12-12",
+      "displayFlag": "Y",
+      "overDueDays": 2,
+      "rpyAmt": "44991.93",
+      "rpyFlag": "1",
+      "tipsMsg": "还款账单"
+    },
+    "productApplMap": {
+        "360JIETIAO": {
+          "controlType": "CLFZ",
+          "isOverdue": "Y",
+          "applARJExist": "N",
+          "applProgress": "",
+          "applState": "APS",
+          "applStateDesc": "申请中",
+          "applSubState": "",
+          "applyFlag": "Y",
+          "bindCardFlag": "N",
+          "commitFlag": "N",
+          "contractNo": "ACT1023012031203",
+          "custNo": "",
+          "creditAmt": "100000",
+          "availableAmt": "50000",
+          "deniedLoansType": "",
+          "deviceOs": "IOS",
+          "drawFlag": "Y",
+          "faceLimitFlag": "N",
+          "flowNo": "79088308b50247819fa1a0090b9c018f",
+          "luckymoney": "88",
+          "informMsg": "大家好，我是提示文案",
+          "dayRate": "0.029%"
+        }
+    }
+  }
+}
