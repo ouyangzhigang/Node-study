@@ -13,7 +13,7 @@ that about study nodeJs project test demo
 
 ## process
 
-```json
+```js
 process {
   title: 'node',
   version: 'v6.3.1',
